@@ -24,6 +24,7 @@ Outside of work I'm into **vibe coding** — using AI agents and LLMs to automat
 - Automating knowledge work with AI agents
 - Shipping tools faster with vibe coding
 - Managing large-scale returns platform across Inditex brands
+- Exploring OpenClaw as a personal tool for productivity at home
 
 ## Projects
 
