@@ -25,5 +25,5 @@ Outside of work I'm into **vibe coding** — using AI agents and LLMs to automat
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Álvaro_Pérez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaropma)
+[![LinkedIn](https://img.shields.io/badge/-Álvaro_Pérez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroperez)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaropma)
