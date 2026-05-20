@@ -19,6 +19,12 @@ Outside of work I'm into **vibe coding** — using AI agents and LLMs to automat
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+## What I'm doing
+
+- Automating knowledge work with AI agents
+- Shipping tools faster with vibe coding
+- Managing large-scale returns platform across Inditex brands
+
 ## Projects
 
 - 🔖 **[launch](https://github.com/alvaropma/launch)** — CLI bookmark manager; quick access to your links from the terminal via fzf
