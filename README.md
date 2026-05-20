@@ -12,9 +12,10 @@ Outside of work I'm into **vibe coding** — using AI agents and LLMs to automat
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=gnu-bash&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=windowsterminal&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-6D28D9?style=flat-square&logo=openai&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## Projects
