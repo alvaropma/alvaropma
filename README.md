@@ -1,27 +1,26 @@
-# Álvaro Pérez
+# Hi, I'm Álvaro 👋
 
-Lead Product Manager at [Inditex](https://www.inditex.com) — building the digital returns experience across Zara, Massimo Dutti, Pull&Bear and the rest of the group.
+📍 **A Coruña, Spain** | 🤖 **Vibe coder** | 📦 **Lead PM @ Inditex**
 
-I manage several engineering teams working on the returns platform: from the customer-facing flows to the backend systems that handle millions of return requests across markets.
+Building the digital returns experience across Zara, Massimo Dutti, Pull&Bear and the rest of the group. I manage several engineering teams working on the returns platform — from customer-facing flows to the backend systems handling millions of return requests across markets.
 
-Outside of the day job I'm into **vibe coding** — using AI agents and LLMs to automate the boring parts of knowledge work and actually ship things faster. Most of what you'll find here is tooling I built for myself that turned out useful enough to share.
+Outside of work I'm into **vibe coding** — using AI agents and LLMs to automate the boring parts of knowledge work and actually ship things faster. Most of what's here is tooling I built for myself that turned out useful enough to share.
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## Projects
 
-| Repo | What it does |
-|------|-------------|
-| [launch](https://github.com/alvaropma/launch) | CLI bookmark manager — quick access to internal links via fzf |
-| [opencode-recall](https://github.com/alvaropma/opencode-recall) | Session memory for OpenCode AI agent |
-| [code-reader](https://github.com/alvaropma/code-reader) | Read and summarize code with LLMs |
+- 🔖 **[launch](https://github.com/alvaropma/launch)** — CLI bookmark manager; quick access to your links from the terminal via fzf
+- 🧠 **[opencode-recall](https://github.com/alvaropma/opencode-recall)** — Full-text search your OpenCode conversations; a TUI built with Python + Textual
+- 📖 **[code-reader](https://github.com/alvaropma/code-reader)** — Read and summarize code with LLMs
 
----
+## Connect
 
-## Stack I use
-
-`Python` · `TypeScript` · `Bash` · `OpenCode` · `GitHub Copilot` · `Azure` · `Jira`
-
----
-
-Located in A Coruña, Spain.
+[![LinkedIn](https://img.shields.io/badge/-Álvaro_Pérez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaropma)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaropma)
