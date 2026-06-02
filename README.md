@@ -1,6 +1,6 @@
 # Hi, I'm Álvaro 👋
 
-📍 **A Coruña, Spain**  📦 **Lead PM @ Inditex**
+📍 **A Coruña, Spain** | 📦 **Lead PM @ Inditex**
 
 Building the digital returns experience across Zara, Massimo Dutti, Pull&Bear and the rest of the group. I manage several engineering teams working on the returns platform — from customer-facing flows to the backend systems handling millions of return requests across markets.
 
